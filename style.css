@@ -1,0 +1,27 @@
+.jumbotron {
+  background-color: #8adcd8;
+  padding-top: 10rem;
+}
+
+img {
+  margin-bottom: 10px;
+}
+
+.container-fluid {
+  padding-top: 3rem;
+}
+
+.container-fluid .card {
+  background-color: #8adcd8;
+}
+
+.display-4 {
+  font-family: "Ubuntu Sans", sans-serif;
+}
+
+.navbar-brand,
+.contact,
+.myskill,
+.about {
+  font-family: "Bitter", serif;
+}
